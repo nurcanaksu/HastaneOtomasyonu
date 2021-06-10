@@ -22,6 +22,7 @@ artar.
 memnuniyeti artırılmış olur.
 
 KODLANABİLİR ÖZELLİKLER:
+
 a.Hasta Girişi ve Kayıt:
 Projenin login kısmında bulunacaktır. Kayıt kısmı hastanın istenen bilgileri doldurmasıyla 
 tamamlanacak olup bu kısımdaki bilgilerle sisteme giriş yapabilecektir.
